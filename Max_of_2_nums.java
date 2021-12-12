@@ -16,7 +16,7 @@ public class numbers {
       long h = 55678l;
       System.out.println("Max of " + a +" and " + b +" is " + Math.max(a,b));
       System.out.println("Max of " + c +" and " + d +" is " + Math.max(c,d));
-      System.out.println("Max of " + e +" and " + f +" is " + Math.max(x,y));
-      System.out.println("Max of " + g +" and " + h +" is " + Math.max(r,s));
+      System.out.println("Max of " + e +" and " + f +" is " + Math.max(e,f));
+      System.out.println("Max of " + g +" and " + h +" is " + Math.max(g,h));
    }
 }
