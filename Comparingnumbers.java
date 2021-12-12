@@ -1,4 +1,4 @@
-class  numbers{
+public class  numbers{
   public static void main(String[] args) 
   {
   int a=9, b=2;
